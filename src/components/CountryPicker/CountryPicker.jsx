@@ -17,7 +17,6 @@ const CountryPicker = ({ handleCountryChange }) => {
     }, [setFetchedCountries])
 
 
-    console.log(fetchedCountries)
 
     return(
        <FormControl className={StyleSheet.formControl}>
