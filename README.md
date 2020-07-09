@@ -11,7 +11,7 @@ An application used to keep track of Global Covid-19 Infections, Recoveries and 
 ## Project Screen Shot(s)
 
 #### Example:   
-https://user-images.githubusercontent.com/29901283/87072287-815b3380-c1e9-11ea-823e-b44c4f84c504.png
+![Alt text](https://user-images.githubusercontent.com/29901283/87072287-815b3380-c1e9-11ea-823e-b44c4f84c504.png)
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
