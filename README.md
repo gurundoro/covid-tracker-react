@@ -11,14 +11,12 @@ An application used to keep track of Global Covid-19 Infections, Recoveries and 
 [API](https://covid19.mathdro.id/api)
 
 ## Project Screen Shot(s)
-
-#### Example:   
+ 
 ![Alt text](https://user-images.githubusercontent.com/29901283/87072287-815b3380-c1e9-11ea-823e-b44c4f84c504.png)
 ![Alt text](https://user-images.githubusercontent.com/29901283/87072303-84eeba80-c1e9-11ea-828c-71b72e4b3d75.png)
 
 ## Installation and Setup Instructions
 
-#### Example:  
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
